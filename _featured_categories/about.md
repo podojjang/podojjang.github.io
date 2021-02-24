@@ -45,6 +45,7 @@ font-weight:bold">
     + Java
     + Python
     + Node.js
+    + React
 
 * Machine Learning / Deep Learning
     + 텍스트 마이닝
@@ -64,17 +65,16 @@ font-weight:bold">
 퓨어와이즈
 
 설명
+* ** 향수 추천 프로젝트 **
 
-* **kakao 챗봇 개발**
-
-개인 프로젝트
-
-* **node.js 채팅 프로그램 개발**
+팀 프로젝트
+  
+* ** node - react SNS 프로젝트 **
 
 개인 프로젝트
 
 ## Skills
 ---
--Language : Java, Python, Node.js
+-Language : Java, Python, Node.js, React.js
 
 -FrameWork: Spring Framework, Flask, Tensorflow(Keras)

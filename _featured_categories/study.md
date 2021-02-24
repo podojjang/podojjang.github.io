@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 2
 description: >
-  기타 공부
+  조금씩 작성해가고 있습니다!
 ---
