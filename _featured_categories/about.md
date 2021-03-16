@@ -1,6 +1,6 @@
 ---
-layout: about
 title: About
+layout: about
 menu: true
 order: 1
 ---
@@ -37,6 +37,8 @@ font-weight:bold">
 >
 > 빅데이터 분석 기반 챗봇 시스템 개발 과정
 
+## Awards
+2021.03 더 조은 컴퓨터 아카데미 최우수상 수상
 
 ## Research Interest
 ---
@@ -44,8 +46,9 @@ font-weight:bold">
 * Program Language
     + Java
     + Python
+    + Javascript
     + Node.js
-    + React
+    + React.js
 
 * Machine Learning / Deep Learning
     + 텍스트 마이닝
@@ -64,10 +67,8 @@ font-weight:bold">
 
 퓨어와이즈
 
-설명
-* ** 향수 추천 프로젝트 **
+리틀천재 리뉴얼하는 작업
 
-팀 프로젝트
   
 * ** node - react SNS 프로젝트 **
 
