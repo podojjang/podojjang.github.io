@@ -15,8 +15,14 @@ order: 2
 작업과정에서 성능개선을 위한 쿼리최적화 작업도 진행하였습니다.<br/>
 쿠키와 세션의 사용등 많은 내용을 배울 기회였습니다
 
+---
+### Skill
+Language : Java<br/>
+Web Framework : Spring<br/>
+DataBase : MSSQL<br/>
+ORM : Mybatis<br/>
 
-
+---
 ### 관리자화면
 
 ![https://podojjang.github.io/assets/img/little/dddd(2).PNG](https://podojjang.github.io/assets/img/little/dddd(2).PNG)
