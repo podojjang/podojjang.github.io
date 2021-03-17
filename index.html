@@ -14,4 +14,8 @@ layout: base
         {% include srcset-img.html class="me" img=author.picture alt=author.name %}
         {% endif %}
     </div>
+	<div class="author-body-description">
+      {{ author.about | markdownify }}
+    </div>
+  </div>
 </article>
